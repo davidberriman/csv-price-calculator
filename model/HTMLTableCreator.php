@@ -1,7 +1,5 @@
 <?php
-
-require_once('sanitize.php');
-
+require_once('autoLoad.php');
 # ========================================================================#
 #
 #  Author:    David Berriman
