@@ -1,0 +1,61 @@
+body{ 
+	text-align : center;  
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:.9em;
+	color:#555;
+}
+p{
+	font-size:.9em;
+}
+h1{
+	margin-bottom : 20px;
+}
+.errorBox{
+	width:calc(100%-20px);
+	background:#d14848;
+	color:white;
+	padding:10px;
+	margin:10px 0;
+	text-align:center;
+}
+.container{
+	max-width: 900px; 
+	margin:auto;
+}
+
+/* Table styles */
+table {
+	text-align : left; 
+	border-collapse: collapse; 
+	margin:50px auto; 
+	border: 1px solid #eee; 
+	margin-bottom : 30px; 
+	width: 100%;
+}
+th, td {
+	padding: 15px;
+	border: 1px solid #eee;
+}
+td {
+	text-align: left;
+}
+
+/* Form styles */
+form{
+	max-width:300px;
+	margin:50px auto;
+}
+input[type=text]{
+	width:calc(100% - 18px);
+	padding:5px;
+	margin:0 0 20px 0;
+}
+input[type=submit]{
+	width:100%;
+	padding:5px;
+	margin:0px;
+}
+li{
+	margin-bottom:20px;
+	list-style: none;
+}

@@ -1,0 +1,4 @@
+product_sku, price_with_tax_rate_of_20_percent_applied, price_addition_without_tax, tax_rate_adjustment_in_percentage
+test1, 120, 50, 10%
+test2, 256.78, 30.12, 27%
+test3, 89.99, 20.00, 50%

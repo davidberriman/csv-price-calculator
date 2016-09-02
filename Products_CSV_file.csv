@@ -1,0 +1,6 @@
+product_sku, price_with_tax_rate_of_20_percent_applied, price_addition_without_tax, tax_rate_adjustment_in_percentage
+TAP135, 12.87, 3.67, 34%
+BATH123, 256.78, 30.12, 27%
+BASIN678, 89.99, 20.00, 50%
+SHOWER897, 200.00, 12.50, 2%
+TOILET321, 95.00, 7.80, 5%

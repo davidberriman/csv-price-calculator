@@ -1,0 +1,39 @@
+Money, money, money
+
+Write a program that reads products from a CSV file and calculates the price with and without tax.
+
+Read in the attached CSV file.
+
+Create code to calculate the prices with and without tax.
+
+Provide a convenient way for developers to use your code to get the price with or without tax, i.e.:
+in pence without tax
+in pounds without tax
+in pence with tax
+in pounds with tax
+
+Add the value from the price_addition column to the price (once tax has been removed).
+
+Apply the tax rate to the price - this is the percentage value within the tax_rate_adjustment column.
+
+Print the final values for all products, including the tax rate and prices with and without tax.
+
+Optional tasks
+Bonus points will be given for the following:
+Handling different currencies (including formatting).
+Unit or spec testing for both programs.
+Extra info
+
+Prices are in pounds.
+
+The programs can be written to be used in either a browser or from the command line, the choice is yours.
+
+We expect applications for senior positions to include all optional tasks.
+
+Products CSV file
+product_sku, price_with_tax_rate_of_20_percent_applied, price_addition_without_tax, tax_rate_adjustment_in_percentage  
+TAP135, 12.87, 3.67, 34%
+BATH123, 256.78, 30.12, 27%
+BASIN678, 89.99, 20.00, 50%
+SHOWER897, 200.00, 12.50, 2% 
+TOILET321, 95.00, 7.80, 5%
